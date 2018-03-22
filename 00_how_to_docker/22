@@ -1,0 +1,8 @@
+#01 и 03
+#20
+#docker swarm join-token worker
+#cохранить результаты
+#новый терминал
+#21
+#eval "$(docker-machine env Aiur)"
+#новый терминал docker swarm join-token worker
